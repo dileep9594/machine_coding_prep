@@ -1,4 +1,3 @@
-# entities/doctor.py
 class Doctor:
     def __init__(self, name, speciality, rating=0):
         self.name = name

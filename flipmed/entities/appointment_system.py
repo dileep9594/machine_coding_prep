@@ -1,6 +1,6 @@
 
-from flipmed.entities.doctor import Doctor
-from flipmed.entities.patient import Patient
+from entities.doctor import Doctor
+from entities.patient import Patient
 
 
 class AppointmentSystem:
